@@ -1,0 +1,20 @@
+/* .about-ht{
+    min-height: 500px !important;
+  } */
+  #about{
+    height: 500px;
+  }
+  .card{
+    /* transition: all 0.5 ease; */
+  }
+  .card:hover{
+    transition: all 0.5 ease;
+    cursor: pointer;
+    box-shadow: 0 0.1 05;
+  
+  }
+  /* .hoverstyle:hover{
+    cursor: pointer;
+    box-shadow: 0 0.1 05;
+    transition: all 0.5 ease;
+  } */
